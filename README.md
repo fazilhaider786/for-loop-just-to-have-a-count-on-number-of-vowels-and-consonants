@@ -10,5 +10,5 @@
                 else:
                 consonants = consonants + 1
 
-print("There are {} vowels".format(vowels))
-print("There are {} consonants".format(consonants))
+        print("There are {} vowels".format(vowels))
+        print("There are {} consonants".format(consonants))
